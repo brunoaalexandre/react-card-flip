@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "SEU_LINK_DO_REPOSITÓRIO"
+    "url": "https://github.com/brunoaalexandre/react-card-flip"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
