@@ -1,4 +1,3 @@
-import "./App.css";
 import { CardBack, CardContainer, CardFront } from "./lib";
 
 function App() {
