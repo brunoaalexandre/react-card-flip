@@ -1,5 +1,5 @@
 {
-  "name": "react-card-flip",
+  "name": "react-card-front-back",
   "version": "0.1.0",
   "main": "dist/index.js",
   "module": "dist/index.js",
